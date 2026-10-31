@@ -1,0 +1,6 @@
+{
+  "name": "DURUNG - Voice-First Personal Finance Coach",
+  "description": "A voice-first personal finance coach and living money model for salaried Indians aged 22-30.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
